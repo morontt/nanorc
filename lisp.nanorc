@@ -1,4 +1,4 @@
-syntax "lisp" "(emacs|zile)$" "\.(el|li?sp|scm|ss)$"
+syntax "lisp" "(emacs|zile)$" "\.(el|li?sp|scm|ss|cljs?)$"
 
 FUNCTION: "\([a-z-]+"
 OPERATOR: "\(([-+*/<>]|<=|>=)|'"
